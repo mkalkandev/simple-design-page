@@ -16,7 +16,7 @@ Contents
 
 # Project URL
 
-The project is published at: [Recipe Page](https://mkalkandev.github.io/simple-design-page/)
+The project is published at: [Simple Design Page](https://mkalkandev.github.io/simple-design-page/)
 
 #Features
 
@@ -24,7 +24,7 @@ The project is published at: [Recipe Page](https://mkalkandev.github.io/simple-d
 
 - **Modern HTML and CSS Techniques:** Clean and easy to maintain code structure.
 
-#ProjectContent
+# ProjectContent
 
 This project contains the following files and folders:
 
@@ -50,11 +50,11 @@ You can view the `index.html` file in the project directory by opening it in any
 
 You can access the project directly from [Recipe Page]https://mkalkandev.github.io/simple-design-page/
 
-#Screenshot
+# Screenshot
 
 ![Project Image](./completed.jpg)
 
-#Challenge
+# Challenge
 
 My app allows users to:
 
@@ -91,7 +91,7 @@ Go to the root of the project:
 cd simple-design-page/
 Install the project dependencies by running the following command:
 
-#Author
+# Author
 
 👤 MustafaKalkan
 
@@ -105,6 +105,6 @@ Frontend Mentor:<a href="https://www.frontendmentor.io/profile/mkalkandev" targe
 
 This project is licensed under [MIT](./LICENSE).
 
-#ShowYourSupport
+# ShowYourSupport
 
 If this project helped you, give it a ⭐️!
