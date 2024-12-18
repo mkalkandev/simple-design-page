@@ -18,13 +18,13 @@ Contents
 
 The project is published at: [Simple Design Page](https://mkalkandev.github.io/simple-design-page/)
 
-#Features
+# Features
 
 - **Responsive Design:** Provides a moderate user experience on all devices. - **Simple and User Friendly Interface:** A simple single page interface
 
 - **Modern HTML and CSS Techniques:** Clean and easy to maintain code structure.
 
-# ProjectContent
+# Project Content
 
 This project contains the following files and folders:
 
@@ -34,7 +34,7 @@ This project contains the following files and folders:
 
 - **images/**: Folder containing the images used in the page.
 
-#How to Run?
+# How to Run?
 
 1. **Download Project File:**
 Copy this project to your computer or download it as a ZIP.
