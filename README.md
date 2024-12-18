@@ -52,7 +52,7 @@ You can access the project directly from [Recipe Page]https://mkalkandev.github.
 
 # Screenshot
 
-![Project Image](./completed.jpg)
+![Project Image](./preview.jpg)
 
 # Challenge
 
